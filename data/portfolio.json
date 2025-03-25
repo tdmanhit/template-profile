@@ -1,40 +1,14 @@
 {
-  "name": "Chetan",
-  "headerTaglineOne": "Hello 👋",
-  "headerTaglineTwo": "I'm Chetan Verma - curious",
-  "headerTaglineThree": "designer and devloper",
-  "headerTaglineFour": " based in New Delhi, India.",
+  "name": "FON Media",
+  "headerTaglineOne": "Xin chào 👋",
+  "headerTaglineTwo": "Chúng tôi là FON MEDIA. ",
+  "headerTaglineThree": "Công ty truyền thông/tin tức",
+  "headerTaglineFour": "Có văn phòng tại Hà Nội, Việt Nam",
   "showCursor": true,
   "showBlog": true,
   "darkMode": true,
   "showResume": true,
-  "socials": [
-    {
-      "id": "1",
-      "title": "Github",
-      "link": "https://github.com/chetanverma16"
-    },
-    {
-      "id": "2",
-      "title": "LinkedIn",
-      "link": "https://www.linkedin.com/in/chetanverma7/"
-    },
-    {
-      "id": "3",
-      "title": "Twitter",
-      "link": "https://twitter.com/realchetanverma"
-    },
-    {
-      "id": "4",
-      "title": "Blog",
-      "link": "https://blog.chetanverma.com/"
-    },
-    {
-      "id": "5",
-      "title": "Email",
-      "link": "mailto:hello@chetanverma.com"
-    }
-  ],
+  "socials": [],
   "projects": [
     {
       "id": "1",
@@ -101,7 +75,7 @@
       "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
     }
   ],
-  "aboutpara": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+  "aboutpara": "FON Media là công ty truyền thông chuyên cung cấp các dịch vụ nhiếp ảnh và quay phim chuyên nghiệp, đặc biệt tập trung vào chụp ảnh kỷ yếu cho học sinh, sinh viên. Với đội ngũ nhiếp ảnh gia giàu kinh nghiệm, sáng tạo và tận tâm, chúng tôi luôn mang đến những bộ ảnh kỷ yếu ấn tượng, lưu giữ trọn vẹn khoảnh khắc đáng nhớ của tuổi trẻ.\n\nBên cạnh dịch vụ chụp kỷ yếu, FON Media còn cung cấp các gói chụp ảnh sự kiện, quay MV, chụp ảnh cá nhân và doanh nghiệp, đảm bảo chất lượng hình ảnh sắc nét, chuyên nghiệp. Chúng tôi cam kết mang lại trải nghiệm dịch vụ tốt nhất, giúp khách hàng lưu giữ những kỷ niệm ý nghĩa theo cách độc đáo và sáng tạo nhất.",
   "resume": {
     "tagline": "👋  I'm a software engineer, product designer.",
     "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
