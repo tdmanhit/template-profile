@@ -24,7 +24,7 @@ const Resume = () => {
   }, []);
   return (
     <>
-      {process.env.NODE_ENV === "development" && (
+      {true && (
         <div className="fixed bottom-6 right-6">
           <Button onClick={() => router.push("/edit")} type={"primary"}>
             Edit Resume

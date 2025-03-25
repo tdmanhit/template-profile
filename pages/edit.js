@@ -15,7 +15,7 @@ const Edit = () => {
   const { theme } = useTheme();
 
   const saveData = () => {
-    if (process.env.NODE_ENV === "development") {
+    if (true) {
       fetch("/api/portfolio", {
         method: "POST",
         headers: {
